@@ -1,0 +1,15 @@
+.head{
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  float: right;
+width: 25%;
+}
+.card{
+width: 50%;
+left: 25%;
+right: 25%;
+top: 10%;
+
+}
